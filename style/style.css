@@ -112,6 +112,14 @@ body {
   font-size: 15rem;
 }
 
+.idea-7 span {
+  font-size: 5rem;
+}
+
+.idea-7 span:nth-child(2) {
+  font-size: 3rem;
+}
+
 .six {
   position: relative;
 }
